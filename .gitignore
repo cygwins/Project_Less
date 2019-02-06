@@ -1,0 +1,9 @@
+# No need to commit the modules, package.json is sufficient
+node_modules
+
+# VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
